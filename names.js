@@ -1,7 +1,6 @@
 // Dependencies
 var fs = require('fs');
 var human = require('humanparser');
-var _ = require('underscore');
 
 // Import data
 const names = fs.readFileSync('names.txt', 'utf8');
@@ -47,11 +46,9 @@ namesArr.map(nameObj => {
 console.log(`1. Count of unique full names: ${uniqueFullNameList.length}`);
 console.log(`2. Count of unique last names: ${lastNameMap.size}`);
 console.log(`3. Count of unique first names: ${firstNameMap.size}`);
-// Replace 10 with N
 console.log(`4. The ten most common last names: 
   ${getSortedMap(lastNameMap).slice(0, 10).join('\n  ')}`
 );
-// Replace 10 with N
 console.log(`5. The ten most common first names: 
   ${getSortedMap(firstNameMap).slice(0, 10).join('\n  ')}`
 );
