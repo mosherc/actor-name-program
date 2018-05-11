@@ -1,0 +1,77 @@
+1. Count of unique full names: 415
+2. Count of unique last names: 476
+3. Count of unique first names: 3022
+4. The ten most common last names:
+  Barton,143
+  Lang,136
+  Ortiz,135
+  Hilll,134
+  Hills,130
+  Terry,129
+  Johns,128
+  Becker,128
+  Romaguera,128
+  Batz,127
+5. The ten most common first names:
+  Tara,34
+  Andreanne,32
+  Stephania,31
+  Keon,31
+  Ulices,30
+  Kayley,30
+  Kaycee,30
+  Manley,30
+  Summer,30
+  Milo,29
+6. 25 completely unique names:
+  Graham,Mckenna
+  Marvin,Garfield
+  McLaughlin,Mariah
+  Lang,Agustina
+  Bradtke,Nikko
+  Adams,Luis
+  Lehner,Matilde
+  Ortiz,Anita
+  Koch,Berry
+  Cartwright,Nicolas
+  Fisher,Elmo
+  Kunze,Gertrude
+  Stanton,Davin
+  O'Conner,Constantin
+  Runolfsdottir,Roy
+  Rogahn,Colby
+  Tromp,Ryley
+  Hoppe,Stanley
+  Shanahan,Bethel
+  Hills,Samanta
+  McGlynn,Thad
+  Lynch,Norma
+  Bahringer,Lennie
+  Tillman,Madison
+  Stoltenberg,Donna
+7. 25 completely unique modified names:
+  Graham,Garfield
+  Marvin,Mariah
+  McLaughlin,Agustina
+  Lang,Nikko
+  Bradtke,Luis
+  Adams,Matilde
+  Lehner,Anita
+  Ortiz,Berry
+  Koch,Nicolas
+  Cartwright,Elmo
+  Fisher,Gertrude
+  Kunze,Davin
+  Stanton,Constantin
+  O'Conner,Roy
+  Runolfsdottir,Colby
+  Rogahn,Ryley
+  Tromp,Stanley
+  Hoppe,Bethel
+  Shanahan,Samanta
+  Hills,Thad
+  McGlynn,Norma
+  Lynch,Lennie
+  Bahringer,Madison
+  Tillman,Donna
+  Stoltenberg,Mckenna
